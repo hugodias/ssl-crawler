@@ -1,0 +1,16 @@
+{
+  "name": "ssl_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Dias <hugooodias@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "csv-parse": "^4.0.1",
+    "moment": "^2.22.2"
+  }
+}
